@@ -1,0 +1,23 @@
+{
+  "name": "synk-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akmane/synk-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akmane/synk-test/issues"
+  },
+  "homepage": "https://github.com/Akmane/synk-test#readme",
+  "dependencies": {
+    "object-delete-key": "^1.9.20",
+    "save": "^2.4.0"
+  }
+}
